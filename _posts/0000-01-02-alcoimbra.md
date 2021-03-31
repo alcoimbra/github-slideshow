@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our secondslide!"
 ---
-Your Text
+Your Real Action
 Use de left arrow to go back
